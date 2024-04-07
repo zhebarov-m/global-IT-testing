@@ -1,0 +1,8 @@
+.userSearch {
+    width: 100%;
+    border: 2px solid ;
+
+    &:focus {
+        outline: 22px solid black;
+    }
+}
